@@ -1,3 +1,6 @@
 [submodule "RayTracing"]
 	path = RayTracing
 	url = https://github.com/tiutcristian/VR_raytracing.git
+[submodule "RayTracingWithRotations"]
+	path = RayTracingWithRotations
+	url = https://github.com/tiutcristian/RayTracingWithRotations.git
